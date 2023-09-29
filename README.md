@@ -1,5 +1,4 @@
-[![MasterHead](![LOSTBOY](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/assets/77573811/d8f54a08-e164-407e-81d8-52bda0a7bc40)
-)
+![MasterHead](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/blob/main/Hey%2C%20I%20am%20LOSTBOY.png)
 <h1 align="center">Hi 👋, I'm LOSTBOY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
