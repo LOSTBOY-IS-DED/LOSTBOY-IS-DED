@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/blob/main/Hey%2C%20I%20am%20LOSTBOY.png)
+![MasterHead](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/blob/main/20240213_220759_0000.png)
 <h1 align="center">Hi 👋, I'm LOSTBOY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F860328335056975458%2F&psig=AOvVaw08labueXZkrl96GEfBgurZ&ust=1708099174683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCLkrbbrYQDFQAAAAAdAAAAABAa">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostboy-is-ded&label=Profile%20views&color=0e75b6&style=flat" alt="lostboy-is-ded" /> </p>
