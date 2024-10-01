@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/blob/main/100xdevs.png)
+![MasterHead](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/blob/main/100xDevs.png)
 
 # 💫 About Me:
 
