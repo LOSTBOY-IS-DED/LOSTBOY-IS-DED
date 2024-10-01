@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/LOSTBOY-IS-DED/LOSTBOY-IS-DED/blob/main/100xdevs.png)
+
 # 💫 About Me:
 🌐 I'm currently working on full stack and blockchain development.<br>🤝 Looking forward to collaborating on Solana & ETH.<br>🚀 Seeking guidance in my Web3 journey.<br>📚 Currently learning Web3.<br>💬 Ask me about: Full Stack, Blockchain, Crypto, Web3, NFTs, Cybersecurity.<br>☕️ Fun Fact: I write code like I drink coffee—constantly and probably way too much.
 
