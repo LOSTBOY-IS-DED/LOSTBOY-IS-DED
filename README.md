@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌐 I'm currently working on full stack and blockchain development.<br>🤝 Looking forward to collaborating on Solana & ETH.<br>🚀 Seeking guidance in my Web3 journey.<br>📚 Currently learning Web3.<br>💬 Ask me about: Full Stack, Blockchain, Crypto, Web3, NFTs, Cybersecurity.<br>☕️ Fun Fact: I write code like I drink coffee—constantly and probably way too much.
 
+[![](https://visitcount.itsvg.in/api?id=LOSTBOY-IS-DED&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Subh_192.168.1.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhajit-chaudhury-23b3ab223/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/5H1Wmwbz1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/LOSTBOY-36) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Vast_Anxiety3379/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22382124/lostboy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SubhajitChaud18) 
@@ -16,12 +17,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=LOSTBOY-IS-DED&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LOSTBOY-IS-DED&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LOSTBOY-IS-DED&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
