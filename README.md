@@ -2,14 +2,6 @@
   <img src="./public/image.png" alt="100xDEVS Header" width="100%" />
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=LOSTBOY-IS-DED&style=for-the-badge&color=84CC16)  
-[![GitHub followers](https://img.shields.io/github/followers/LOSTBOY-IS-DED?style=for-the-badge&color=84CC16)](https://github.com/LOSTBOY-IS-DED?tab=followers)  
-[![GitHub Stars](https://img.shields.io/github/stars/LOSTBOY-IS-DED?style=for-the-badge&color=84CC16)](https://github.com/LOSTBOY-IS-DED)
-
-</div>
-
 ---
 
 <div align="center">
