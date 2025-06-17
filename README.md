@@ -150,7 +150,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=84CC16)](https://twitter.com/SubhajitChaud18)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=84CC16)](https://www.linkedin.com/in/subhajit-chaudhury-23b3ab223/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=todoist&logoColor=84CC16)](https://yourportfolio.com) <!-- comment this if needed -->  
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=todoist&logoColor=84CC16)](https://subh-rs.vercel.app/) <!-- comment this if needed -->  
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=84CC16)](mailto:subhajitchaudhury05@gmail.com)
 
 </div>
